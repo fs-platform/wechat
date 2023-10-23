@@ -28,7 +28,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Smbear\\Payeezy\\": "src/"
+      "Smbear\\Wechat\\": "src/"
     },
     "files": [
       "helper/function.php"
